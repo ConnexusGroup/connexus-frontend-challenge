@@ -1,6 +1,4 @@
-<div style="text-align:center">
-   <img src="https://www.connexus.co.uk/app/default/files-module/local/images/logo-dark.svg" alt="Connexus Logo" width="250" />
-</div>
+<img src="https://www.connexus.co.uk/app/default/files-module/local/images/logo-dark.svg" alt="Connexus Logo" width="250" />
 
 
 ### Introduction
@@ -27,4 +25,4 @@ Please clearly document any build and/or deployment steps if needed.
 - Adding validation to the sign-up form
 
 ### Screenshot
-<img src="http://files.connexus.co.uk/img/design-preview-desktop.jpg" />
+<img src="https://raw.githubusercontent.com/dav0r/connexus-frontend-challenge/main/Screenshots/Desktop.jpg" />
