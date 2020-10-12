@@ -10,10 +10,8 @@ You are free to use whichever framework(s) and/or libraries to complete the proj
 
 ### Goal
 
-- Develop the XD design (Design.xd) into a responsive web page. 
+- Develop the **(Design.xd)[https://github.com/dav0r/connexus-frontend-challenge/raw/main/Design.xd]** into a responsive web page. You can download Adobe XD from https://www.adobe.com/uk/products/xd.html for free.
 - Ensure your design works well on common devices (desktops, tablets and mobile devices)
-
-> You can download Adobe XD from https://www.adobe.com/uk/products/xd.html for free.
 
 ### Submission
 
