@@ -15,11 +15,12 @@ You are free to use whichever framework(s) and/or libraries to complete the proj
 
 Completed projects should be submitted by **19/10/2020**. You can submit your entry via email (zipped) to d.roberts@connexus.co.uk or by providing a link to a publicly available repository or file hosting platform. 
 
-Please clearly document any build and/or deployment steps if needed.
+Please clearly document any build and/or deployment steps if needed. Additionally, to help us get to know you, it would be very helpful if you keep and include a log of any special features you feel are worth mentioning that you have implemented as well as any issues you came across during development.
 
 ### Bonus points awarded for
 
 - Using a package manager to organise your third party libraries (if used)
+- Considering SEO best-practises and techniques
 - Using a CSS pre-processor (SASS/LESS)
 - Avoiding the use of jQuery
 - Adding validation to the sign-up form
