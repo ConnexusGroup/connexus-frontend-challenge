@@ -13,7 +13,7 @@ You are free to use whichever framework(s) and/or libraries to complete the proj
 
 ### Submission
 
-Completed projects should be submitted by **23/10/2020**. You can submit your entry via email (zipped) to d.roberts@connexus.co.uk or by providing a link to a publicly available repository or file hosting platform. 
+Completed projects should be submitted by **19/10/2020**. You can submit your entry via email (zipped) to d.roberts@connexus.co.uk or by providing a link to a publicly available repository or file hosting platform. 
 
 Please clearly document any build and/or deployment steps if needed.
 
